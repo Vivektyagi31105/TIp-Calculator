@@ -8,14 +8,12 @@ body {
 }
 
 .outer {
-  box-sizing: border-box;
-  align-items: center;
+  
   max-width: 1200px;
   height: 700px;
 
   padding-top: 35px;
-  justify-content: center;
-  text-align: center;
+
 }
 .container {
   margin: auto;
